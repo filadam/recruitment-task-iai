@@ -13,7 +13,7 @@ Node.js
 ## Installation
 First clone the repository
 
-    $ git clone https://github.com/filadam/recruitment-task-home.git
+    $ git clone https://github.com/filadam/recruitment-task-iai.git
 
 Install the dependencies
 
